@@ -24,7 +24,7 @@
 
 ### Funkcionális elvárások
 
-A weboldal az alábbi címen érhető el: *http://people.inf.elte.hu/gergi30/
+A weboldal az alábbi címen érhető el: http://people.inf.elte.hu/gergi30/
 
 Szabadon választható vektoros forrásokból valamint Excel vagy CSV formátumokkal együtt kell dolgozni. Feladatok:
  - Vektoros adatok importálása Google Fusion Table-be. ✓
@@ -36,7 +36,7 @@ Szabadon választható vektoros forrásokból valamint Excel vagy CSV formátumo
 
 ### Dokumentáció:
 
-A dokument az alábbi címen érhető el: *https://github.com/gergi30/Webes-GIS
+A dokument az alábbi címen érhető el: https://github.com/gergi30/Webes-GIS
 
  - Beandó célja (milyen térképet szeretnénk elkészíteni, és mi a célja) ✓
  - Adatforrások megjelölése (formátum és forrás) ✓
