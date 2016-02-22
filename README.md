@@ -41,3 +41,9 @@ A dokument az alábbi címen érhető el: https://github.com/gergi30/Webes-GIS
  - Beandó célja (milyen térképet szeretnénk elkészíteni, és mi a célja) ✓
  - Adatforrások megjelölése (formátum és forrás) ✓
  - Térbeli adatok osztályozása és szűrésére vonatkozó leírás. ✓
+ 
+
+
+
+
+Made By Nagy Gergely :fire: :fire: :fire:
