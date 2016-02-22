@@ -44,6 +44,10 @@ A dokument az alábbi címen érhető el: https://github.com/gergi30/Webes-GIS
 
 ### Beadandó célja
 
+Célom egy weboldal létrehozása ami új statisztikákat nyújthat a "kosárlabda szerelmeseinek".
+Feladatom során egy olyan térképet csináltam, amely az Amerikában kosárlabdáza csapatok bajnoki címei alapján kategorizálja a városokat. Így egyből látható melyik államok, városok sikeresebbek ebben a sportágban.
+
+
 ### Adatforrás
 
 A csapatok adatait az ***http://www.nba.com/*** weboldalról gyűjtöttem.
@@ -91,6 +95,9 @@ Könyvtár szerkezet:
 ## Tesztelés
 -------------
 
-
+Az következő böngészükben teszteltem a weboldalt Windows 7 OS alatt sikeresen:
+       Mozilla Firefox
+       Google Chrome
+       Windows IE
 
 Made by Nagy Gergely :fire: :fire: :fire:
