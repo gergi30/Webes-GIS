@@ -20,8 +20,6 @@
 ## Követelményanalízis
 ----------------------
 
-
-
 ### Funkcionális elvárások
 
 A weboldal az alábbi címen érhető el: http://people.inf.elte.hu/gergi30/
@@ -43,7 +41,21 @@ A dokument az alábbi címen érhető el: https://github.com/gergi30/Webes-GIS
  - Térbeli adatok osztályozása és szűrésére vonatkozó leírás. ✓
  
 
+### Architektúra terv
+
+#### Oldaltérkép:
+
+A megoldott feladat cask egy html fájlt tartalmaz , ami több menüpontra tagolódik:
+
+    * fő oldal
+	* Kezdőlap
+	* Rólam
+	* Napi idézet
+	* Térkép
+	* Kapcsolat
 
 
 
-Made By Nagy Gergely :fire: :fire: :fire:
+
+
+Made by Nagy Gergely :fire: :fire: :fire:
