@@ -96,6 +96,7 @@ Könyvtár szerkezet:
 -------------
 
 Az következő böngészükben teszteltem a weboldalt Windows 7 OS alatt sikeresen:
+     
        Mozilla Firefox
        Google Chrome
        Windows IE
