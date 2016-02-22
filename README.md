@@ -47,7 +47,7 @@ A dokument az alábbi címen érhető el: https://github.com/gergi30/Webes-GIS
 
 A megoldott feladat cask egy html fájlt tartalmaz , ami több menüpontra tagolódik:
 
-    * fő oldal
+* fő oldal
 	* Kezdőlap
 	* Rólam
 	* Napi idézet
