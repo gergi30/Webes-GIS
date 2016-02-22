@@ -7,7 +7,6 @@
 - Tervezés
 - Implementáció
 - Tesztelés
-- Felhasználói dokumentáció
 
 ## Szerző
 ----------
@@ -40,6 +39,8 @@ A dokument az alábbi címen érhető el: https://github.com/gergi30/Webes-GIS
  - Adatforrások megjelölése (formátum és forrás) ✓
  - Térbeli adatok osztályozása és szűrésére vonatkozó leírás. ✓
  
+## Tervezés
+-----------
 
 ### Architektúra terv
 
@@ -54,7 +55,26 @@ A megoldott feladat cask egy html fájlt tartalmaz , ami több menüpontra tagol
 	* Térkép
 	* Kapcsolat
 
+## Implementáció
+-----------------
 
+### Fejlesztői környezet bemutatása
+
+	A fejlesztét a Notepad++ ingyenes forráskódú szoftverrel végeztem.
+	Jellemzői:  kódkiemelés és kódblokkok egységbe zárása, felhasználó által állítható kódkiemelés, WYSIWYG felület
+	
+### Könyvtárstruktúrában lévő mappák funkiójának bemutatása
+	
+
+Könyvtár szerkezet:
+
+    * ./css: css fájlok
+    * ./fonts: betűtípusok
+    * ./img: képek
+    * ./js: oldalon használatos script fájlok
+
+## Tesztelés
+-------------
 
 
 
