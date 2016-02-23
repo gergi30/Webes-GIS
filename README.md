@@ -51,7 +51,7 @@ Feladatom során egy olyan térképet csináltam, amely az Amerikában kosárlab
 ### Adatforrás
 
 A csapatok adatait az ***http://www.nba.com/*** weboldalról gyűjtöttem.
-Vesszővel elválasztótt CSV fájlba gyűjtöttem, majd ezt importáltam Google Fusion Table-be.
+Vesszővel elválasztótt CSV fájlba rendeztem, majd ezt importáltam Google Fusion Table-be.
 
 Táblázat első pár sora:
 
@@ -79,8 +79,8 @@ A megoldott feladat cask egy html fájlt tartalmaz , ami több menüpontra tagol
 
 ### Fejlesztői környezet bemutatása
 
-	A fejlesztét a Notepad++ ingyenes forráskódú szoftverrel végeztem.
-	Jellemzői:  kódkiemelés és kódblokkok egységbe zárása, felhasználó által állítható kódkiemelés, WYSIWYG felület
+A fejlesztét a Notepad++ ingyenes forráskódú szoftverrel végeztem.
+Jellemzői:  kódkiemelés és kódblokkok egységbe zárása, felhasználó által állítható kódkiemelés, WYSIWYG felület
 	
 ### Könyvtárstruktúrában lévő mappák funkiójának bemutatása
 	
