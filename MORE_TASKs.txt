@@ -1,0 +1,10 @@
+
+//további feladatok
+
+
+html 5 -> Data Storage -> Session -> Index Db vs locale Storage (milyen esetek)
+
+
+ WebSocket (JS) 	  -> Google maps v3 , több API
+			  -> adatok felvivese
+			  -> koordinata paros -> cím
